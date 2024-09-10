@@ -1,4 +1,4 @@
-
+<img src="https://github.com/ann-afame/ann-afame/blob/main/mobann%20tech%20new%20logo.jpg" alt="logo" width="1200" height="400"/>
 <h1 align="center">Hi 👋, I'm APOTEK ZEKPA</h1>
 <h3 align="center">DevOps Engineer | Cloud Engineer | Infrastructure Engineer</h3>
 
