@@ -3,7 +3,7 @@
 <h3 align="center">DevOps Engineer | Cloud Engineer | Infrastructure Engineer</h3>
 
 
-<img align="right" alt="Coding" width="400" src= https://github.com/favour4000/favour4000/blob/main/gif.gif>
+<img align="right" alt="Coding" width="400" src= https://github.com/apote0716/apote0716/blob/main/gif%20cod.png>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apote0716&label=Profile%20views&color=0e75b6&style=flat" alt="apote0716" /> </p>
 
