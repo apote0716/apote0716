@@ -1,5 +1,5 @@
 <img src="https://github.com/apote0716/apote0716/blob/main/dd.jpg" alt="logo" width="1200" height="400"/>
-<h1 align="center">Hi 👋, I'm APOTEK ZEKPA</h1>
+<h1 align="center">Hi 👋, I'm APOTE ZEKPA</h1>
 <h3 align="center">DevOps Engineer | Cloud Engineer | Infrastructure Engineer</h3>
 
 
